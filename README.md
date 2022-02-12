@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Atualmente estou trabalhando como Desenvolvedor Web
-- 🌱 Estou estudando sobre Data Science
+- 🔭 Atualmente estou trabalhando como Desenvolvedor Full Stack
 - 📫 Contato: matheus.satake@icloud.com
 
 
